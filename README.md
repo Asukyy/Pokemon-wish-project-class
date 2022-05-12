@@ -1,0 +1,1 @@
+# Pokemon-wish-project-class
